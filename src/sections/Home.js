@@ -15,7 +15,7 @@ const Home = () =>{
                <div className="textName">
                     <h1>Home Page</h1>
                     <p>
-                        Hi thid is home page
+                        Hi thid is home page Edit
                     </p>
                    
                         <button onClick={clickAboutPage} className="buttomAbout">
